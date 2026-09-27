@@ -81,4 +81,4 @@ Documenting my CTF solutions and methodology as an Cybersecurity student.
 **Category:** Cryptography | **Points:** 2
 **Solution:** h1ding_in_plane_s1ght
 
-**How I solved it:** I Used extract EXIF in CyberChef and decoded the image metadata with From Base 64.
+**How I solved it:** I used extract EXIF in CyberChef and decoded the image metadata with From Base 64.
